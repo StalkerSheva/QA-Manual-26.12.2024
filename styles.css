@@ -1,0 +1,27 @@
+body {
+  background-color: beige;
+}
+
+h1 {
+  
+  color: darkgreen;
+  text-align: center;
+}
+
+p {
+  font-family: comicsans;
+  font-size: 25px;
+}
+
+.wingdings {
+
+font-family: arial;
+
+}
+
+img {
+
+display: block;
+margin: auto;
+
+}
